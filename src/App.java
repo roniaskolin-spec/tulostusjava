@@ -19,7 +19,7 @@ public class App {
         System.out.println(luku1 + " - " + luku2 + " = " + erotus);
 
         System.out.println(luku1 + " + " + luku2 + " = " + summa);
-
-         System.out.println(luku1 + " / " + luku2 + " = " + jako);
+        
+        System.out.println(luku1 + " / " + luku2 + " = " + jako);
     }
 }
